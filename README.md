@@ -1,4 +1,6 @@
-## React demo application
+## React Demo Application
+
+[![buddy pipeline](https://app.buddy.works/abhiap/react-demo-app/pipelines/pipeline/255430/badge.svg?token=738f35b97ec3ce6a9a115c59e582b088fde6fcee2a92780b69cf9e293e60d114 "buddy pipeline")](https://app.buddy.works/abhiap/react-demo-app/pipelines/pipeline/255430)
 
 This demo application was created for the [react deployment](https://www.codedisciples.in/react-deployment.html) post on [codedisciples.in](https://codedisciples.in).
 
