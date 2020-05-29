@@ -6,7 +6,6 @@ node_js:
       -in travis_rsa.enc -out travis_rsa -d
     - chmod 600 travis_rsa
     - mv travis_rsa ~/.ssh/id_rsa
-    - cd client
 install:
   - npm install
 script:
