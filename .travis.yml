@@ -5,3 +5,5 @@ before-install:
   - cd client
 install:
   - npm install
+script:
+  - pytest
