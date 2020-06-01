@@ -15,4 +15,4 @@ script:
   - "true"
 after_success:
   - npm run build
-  - bash ./deploy.sh
+  - bash ../deploy.sh
