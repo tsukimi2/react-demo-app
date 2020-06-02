@@ -4,7 +4,9 @@
 
 [![Build Status](https://travis-ci.org/AbhishekPednekar84/react-demo-app.svg?branch=master)](https://travis-ci.org/AbhishekPednekar84/react-demo-app)
 
-This demo application was created for the [react deployment](https://www.codedisciples.in/react-deployment.html) post on [codedisciples.in](https://codedisciples.in).
+This demo application was created for the following posts on [codedisciples.in](https://codedisciples.in) -
+1. [Deploying a React application on a Linux server](https://www.codedisciples.in/react-deployment.html)
+2. [Continuous Deployment with Travis CI and DigitalOcean](https://www.codedisciples.in/travis-digitalocean.html)
 
 Pre-requisites:<br />
 - Node.js v12.13.1
