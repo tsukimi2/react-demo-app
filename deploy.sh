@@ -7,6 +7,8 @@ if [ $TRAVIS_BRANCH == 'master' ] ; then
 
   rsync -a client/build/ travis@68.183.94.49:/home/abhiap/test/client
   rsync -a server/ travis@68.183.94.49:/home/abhiap/test/server
+
+  systemctl restart nginx
 else
   echo "Not deploying, since the branch isn't master."
 fi
